@@ -1,4 +1,4 @@
-# Self-made-pratice-projects-Python
+# Self-made-practice-projects-Python
 *beginner level*
 
 I did the debugging session for most of them.
